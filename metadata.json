@@ -1,0 +1,6 @@
+{
+  "name": "Generator Soal Pintar",
+  "description": "Platform Asesmen Pembelajaran Berbasis AI untuk Kurikulum Merdeka dengan analisis Taksonomi Bloom, SOLO, Barrett, dan ekspor naskah asesmen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
